@@ -1,16 +1,20 @@
-## Hi there 👋
+# Привет 👋👩‍💻
 
-<!--
-**EkaterinaPedan/EkaterinaPedan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Меня зовут Екатерина Педан
 
-Here are some ideas to get you started:
+Я начинающий QA-инженер(тестировщик)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Мои работы
+
+* [Курсовой проект к модулю «Ручное тестирование веб-приложений»](https://github.com/EkaterinaPedan/portfolio/tree/main/coursework)
+
+
+## Сертификаты
+
+* [Ручное тестирование веб-приложений](https://github.com/EkaterinaPedan/certificates/blob/main/attachments/manual-testing-certificate.jpg)
+* [GIT - система контроля версий](https://github.com/EkaterinaPedan/certificates/blob/main/attachments/git-certificate.jpg)
+
+<br>
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=EkaterinaPedan&show_icons=true&include_all_commits=true" />
+</div>
