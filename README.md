@@ -7,6 +7,7 @@
 ## Мои работы
 
 * [Курсовой проект к модулю «Ручное тестирование веб-приложений»](https://github.com/EkaterinaPedan/portfolio/tree/main/coursework)
+* [Командный проект по курсу «Java для тестировщиков»](https://github.com/cranewf/javaqa-team-diplom)
 
 
 ## Сертификаты
